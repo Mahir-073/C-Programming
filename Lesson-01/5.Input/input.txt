@@ -1,0 +1,3 @@
+INPUT FUNCTIONS:
+    - SCANF("%FORMAT-SPECIFIER", &VARIABLE);
+    - fgets(variable, size, stdin);

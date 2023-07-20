@@ -1,0 +1,6 @@
+MATH FUNCTIONS:
+    - SQRT: SQ URE-ROOT ; sqrt(25)=5
+    - POW: POWER OF; pow(2,3)=8
+    - ROUND: 3.14 = 3 [value<0.5 = lower; value>0.5 = upper]
+    - CELI: 3.14 = 4
+    - FLOOR: 3.99 = 3
