@@ -1,0 +1,18 @@
+Any overflow will reset the value to the minimum range
+
+FORMAT SPECIFIERS:
+    - int: %d 
+    - float: %f
+    - double: %lf 
+    - char: %c 
+    - char var[]/ strings: %s 
+    - bool: %d 
+    - unsigned int: %u 
+
+    - decimal precision: %.1
+    - minimum field weidth: %1
+    - left align: %-
+
+CONSTANTS:
+    - IT IS A FIXED VALUE THAT CANNOT BE ALTERED BY THE PROGRAM DURING ITS EXECUTION
+    - BY USING CONST KEYWORD THIS VARIABLE IS READ ONLY. SO THE VARIABLE WILL REMAIN CONSTANT.

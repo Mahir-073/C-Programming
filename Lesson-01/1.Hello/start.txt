@@ -1,0 +1,12 @@
+//first ever code in C; also the (//) is used for single line comment
+
+/*
+This a syntax for multi line comment
+*/
+
+/*
+\n: newline tag
+\t: tab tag
+"\"............\"
+quote: \"......\"
+*/

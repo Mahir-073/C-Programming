@@ -1,0 +1,18 @@
+Variables: Allocated space in memory to store a value. We refer to a variables's name to access the store
+           value. That variable now behaves as if it was the value it contains. But we need to declare what type
+           of data we are storing.
+
+         ###.  format:
+
+                1.  datatype variableName;
+                    variableName = value;
+
+                2. dataType variableName = value;
+
+         ###.   As strings are technically objects and C programming is 
+            not a object oriented programming, as a result we wont see any data type called "STRING".
+            In place of string datatype we will use a array that can print a series of characters.
+
+        
+        
+    
