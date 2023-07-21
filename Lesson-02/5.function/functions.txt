@@ -1,0 +1,14 @@
+VOID FUNCTION FORMAT: (VOID RETURNS NOTHING)
+    void birthday(){
+        printf("\nHappy Birthday");
+    }
+
+    Arguments: what i am giving as a input in a FUNCTION
+    Parameters: what a function expects when it is invoked
+
+non void functions (functions with return type)
+
+    double square(double x){
+    double result = x * x;
+    return result;
+}  // return type and function type will be same
