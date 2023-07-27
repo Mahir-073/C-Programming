@@ -1,0 +1,88 @@
+CSE321: OPERATING SYSTEM
+LAB ASSIGNMENT 01
+
+SUBMITTED BY
+NAME: MAHIR AHMED NILOY
+ID: 19101114
+SEC: 04
+
+SUBMITTED TO
+TAWSIF SHAHARIAR DIPTO
+Lecturer, BRAC University
+
+AVINANDAN BANERJEE
+Lecturer, BRAC University
+
+DATE OF SUBMISSION: 07-07-2023
+
+
+
+
+ANSWER TO THE QUESTION NUMBER: 01
+(a)
+
+In the beginning of the assignment, I have used virtual box to use ubuntu. In the linux terminal i have used some lines of codes in order to complete the tasks. Codes  are attached and discuss below:
+
+1. By using pwd I have checked my present/current working directory.
+
+2. Then I have created CSE321 and on that folder I have created ASSIGNMENT_01 as a subdirectory. I us cd in order to change directory. ASSIGNMENT_01 is the working directory in order to execute all the assignment 01 tasks.
+
+3. Starting with the ques at first i created 4 text files and 2 directories.
+
+
+4. Then i have completed the whole tasks. Delaited commands are attached below:
+
+a. mkdir Mahir1 Mahir2
+
+b. touch 19101114_1.txt 19101114_2.txt 19101114_3.txt 19101114_4.txt
+
+c. mv  19101114_1.txt 19101114_2.txt 19101114_3.txt Mahir1 
+
+d. cd Mahir1 
+
+e. cp 19101114_1.txt 19101114_2.txt ../Mahir2/ 
+
+f. cd .. 
+
+g. mkdir Mahir3
+
+h. cp  -r Mahir1 Mahir3
+
+i. cd Mahir3 
+   ls -l 
+ 
+j. Chmod -R go=rx * 
+
+k. ls
+
+l. sudo mv Mahir3 / 
+
+m. rm -r * 
+
+
+
+
+ANSWER TO THE QUESTION NUMBER: 01
+(b)
+
+1. touch course.txt:  
+2. grep -ci “CSE” course.txt 
+  
+
+
+
+ANSWER TO THE QUESTION NUMBER: 01
+(c)
+ 
+1. ls -a / 
+
+
+ANSWER TO THE QUESTION NUMBER: 01
+(d)
+
+awk 'NR>=5 && NR<=17' example.txt
+
+
+
+
+
